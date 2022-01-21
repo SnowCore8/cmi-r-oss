@@ -1,0 +1,3 @@
+# source "techpack/data/drivers/emac-dwc-eqos/Kconfig"
+# source "techpack/data/drivers/generic-sw-bridge/Kconfig"
+source "techpack/data/drivers/rmnet/Kconfig"
